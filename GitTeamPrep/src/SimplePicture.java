@@ -15,7 +15,7 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robot = new GImage(IMAGE_FILENAME, 200, 100);
 		add(robot);
-		GLabel label = new GLabel("Yanjun - Martyr", 200, 400);
+		GLabel label = new GLabel("Alex - Hackslash", 200, 400);
 		add(label);
 	}
 	// Change for step 7
