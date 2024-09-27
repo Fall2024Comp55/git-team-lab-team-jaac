@@ -15,7 +15,7 @@ public class SimplePicture extends GraphicsProgram {
 		GLabel label = new GLabel("How I feel when using github hackslash", 200, 400);
 		add(label);
 	}
-	
+	// Change for step 7
 	public static void main(String[] args) {
 		new SimplePicture().start();
 	}
