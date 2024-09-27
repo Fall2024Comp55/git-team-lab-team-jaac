@@ -1,3 +1,4 @@
+// comment for step 6
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
