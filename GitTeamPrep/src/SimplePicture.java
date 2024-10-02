@@ -16,7 +16,11 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robot = new GImage(IMAGE_FILENAME, 200, 100);
 		add(robot);
+<<<<<<< HEAD
 		GLabel label = new GLabel("Alex - Hackslashhhh", 200, 400);
+=======
+		GLabel label = new GLabel("Abdallah - Martyr", 200, 400);
+>>>>>>> branch 'main' of https://github.com/Fall2024Comp55/git-team-lab-team-jaac
 		add(label);
 	}
 	// Change for step 7
